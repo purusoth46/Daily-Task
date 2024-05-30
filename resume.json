@@ -1,0 +1,53 @@
+{
+  "basics": {
+    "name": "Purusoth",
+    "label": "Programmer",
+    "image": "",
+    "email": "purusoth910@gmail.com",
+    "phone": "(+91 9003954362)",
+    "summary": "A summary of Purusoth",
+    "location": {
+      "address": "Dro colony St ",
+      "postalCode": "625007",
+      "city": "Madurai",
+      "countryCode": "India",
+    },
+    
+  "education": [
+    {
+      "institution": "Nehru Group Of Instutions",
+      "area": "Information Teachnology",
+      "studyType": "Bachelor",
+      "startDate": "2016-06-22",
+      "endDate": "2019-05-05",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Full stack Developement",
+      "date": "2021-11-07",
+      "issuer": "Company",
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English","Tamil"
+      
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  
+}
